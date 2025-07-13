@@ -1,4 +1,3 @@
-
 ````markdown
 # 📝 React To-Do List App
 
@@ -19,7 +18,6 @@ A simple and elegant **To-Do List** application built using **React.js**. It all
 
 ![To-Do App Screenshot](./screenshot.png)
 
-<img width="1440" height="900" alt="Screenshot 2025-07-13 at 8 17 04 AM" src="https://github.com/user-attachments/assets/a3407018-9e11-4303-a7d1-45252dd00766" />
 > 💡 _Place your screenshot image (`screenshot.png`) in the root folder of your project._
 
 ---
@@ -84,9 +82,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+
 ## 🧑‍💻 Author
 
 **Harshit Bansal**
 🌐 [GitHub](https://github.com/HarsDev01)
 
 ---
+
+````
+
