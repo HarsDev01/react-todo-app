@@ -30,7 +30,7 @@ npm install
 ````
 ## 📸 Screenshot
 
-![Alt text](relative/path/to/image.<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/beb11039-215e-4e54-9c34-46000d681117" />
+.<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/beb11039-215e-4e54-9c34-46000d681117" />
 png)
 
 ### ▶️ Run the app
