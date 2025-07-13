@@ -61,8 +61,7 @@ todo-app/
 ├── public/
 │   └── index.html
 ├── src/
-│   ├── components/
-│   │   └── TodoItem.js
+│   ├── TodoItem.js
 │   ├── App.js
 │   ├── index.js
 │   └── App.css
