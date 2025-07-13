@@ -16,11 +16,9 @@ A simple and elegant **To-Do List** application built using **React.js**. It all
 
 ## 📸 Screenshot
 
-![To-Do App Screenshot](./screenshot.png)
+![Alt text](relative/path/to/image.<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/beb11039-215e-4e54-9c34-46000d681117" />
+png)
 
-> 💡 _Pl<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/7ba8d4d8-4f40-45c3-b03b-7fbaf0fc72e4" />
-
----
 
 ## 🛠️ Getting Started
 
@@ -73,15 +71,6 @@ todo-app/
 ├── README.md
 └── package.json
 ```
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 
 ## 🧑‍💻 Author
 
