@@ -19,7 +19,6 @@ A simple and elegant **To-Do List** application built using **React.js**. It all
 ![To-Do App Screenshot](./screenshot.png)
 
 > 💡 _Pl<img width="1440" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/7ba8d4d8-4f40-45c3-b03b-7fbaf0fc72e4" />
-ace your screenshot image (`screenshot.png`) in the root folder of your project._
 
 ---
 
